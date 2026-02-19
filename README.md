@@ -4,9 +4,9 @@ A responsive front-end clone of the official Nike website built using HTML, CSS,
 🚀 Demo
 https://gauri4104.github.io/Gauri_webd-project/
 
-
 📌 Features
 Responsive design for mobile, tablet, and desktop
+This project was made by me during my second semester WebDev project.
 
 Hero slider/banner section
 
